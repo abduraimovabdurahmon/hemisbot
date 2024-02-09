@@ -1,0 +1,116 @@
+[
+  {
+    "kun": "Dushanba 22 yanvar, 2024",
+    "fanlar": [
+      {
+        "nomi": "4. Kriptografiya 2",
+        "xona": "217",
+        "turi": "Ma’ruza",
+        "domla": "SALAYEV A. K.",
+        "soat": "13:30"
+      },
+      {
+        "nomi": "5. Pedagogika. Psixologiya",
+        "xona": "217",
+        "turi": "Amaliy",
+        "domla": "MATYAZOVA N. S.",
+        "soat": "15:00"
+      }
+    ]
+  },
+  {
+    "kun": "Seshanba 23 yanvar, 2024",
+    "fanlar": [
+      {
+        "nomi": "4. Kriptografiya 2",
+        "xona": "ZAL_2",
+        "turi": "Amaliy",
+        "domla": "SALAYEV A. K.",
+        "soat": "13:30"
+      },
+      {
+        "nomi": "5. Kiber-huquq va kiber-etika",
+        "xona": "215",
+        "turi": "Ma’ruza",
+        "domla": "SALAYEV A. K.",
+        "soat": "15:00"
+      }
+    ]
+  },
+  {
+    "kun": "Chorshanba 24 yanvar, 2024",
+    "fanlar": [
+      {
+        "nomi": "4. Pedagogika. Psixologiya",
+        "xona": "212",
+        "turi": "Ma’ruza",
+        "domla": "XAJIYEVA I. A.",
+        "soat": "13:30"
+      },
+      {
+        "nomi": "5. Tarmoq xavfsizligi",
+        "xona": "215",
+        "turi": "Amaliy",
+        "domla": "IBODULLAYEV A. Z.",
+        "soat": "15:00"
+      }
+    ]
+  },
+  {
+    "kun": "Payshanba 25 yanvar, 2024",
+    "fanlar": [
+      {
+        "nomi": "4. Operatsion tizimlar",
+        "xona": "314",
+        "turi": "Ma’ruza",
+        "domla": "ABDULLAYEVA G. X.",
+        "soat": "13:30"
+      },
+      {
+        "nomi": "5. Kiber-huquq va kiber-etika",
+        "xona": "215",
+        "turi": "Amaliy",
+        "domla": "SALAYEV A. K.",
+        "soat": "15:00"
+      }
+    ]
+  },
+  {
+    "kun": "Juma 26 yanvar, 2024",
+    "fanlar": [
+      {
+        "nomi": "4. Murabbiylik soati",
+        "xona": "325",
+        "turi": "Seminar",
+        "domla": "KARRIBAYEV Y. B.",
+        "soat": "13:30"
+      },
+      {
+        "nomi": "5. Operatsion tizimlar",
+        "xona": "ZAL_2",
+        "turi": "Amaliy",
+        "domla": "ABDULLAYEVA G. X.",
+        "soat": "15:00"
+      }
+    ]
+  },
+  {
+    "kun": "Shanba 27 yanvar, 2024",
+    "fanlar": [
+      {
+        "nomi": "4. Tarmoq xavfsizligi",
+        "xona": "315",
+        "turi": "Ma’ruza",
+        "domla": "XOJIBAYEV J. M.",
+        "soat": "13:30"
+      },
+      {
+        "nomi": "5. Kriptografiya 2",
+        "xona": "315",
+        "turi": "Ma’ruza",
+        "domla": "SALAYEV A. K.",
+        "soat": "15:00"
+      }
+    ]
+  }
+]

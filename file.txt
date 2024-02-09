@@ -1,0 +1,300 @@
+<section class="content">
+        <div id="schedule-grid" data-pjax-container="" data-pjax="1"><div class="info-box box-mini">
+    <div class="row">
+        <div class="col-sm-6">
+            <span class="info-box-icon bg-green"><i class="fa fa-files-o"></i></span>
+            <div class="info-box-content ">
+
+                <span class="info-box-number">
+                        951-21 AXo'                                    </span>
+            </div>
+        </div>
+        <div class="col-sm-6">
+            <div class="info-box-content no-margin text-right text-center-sm">
+                <label class="hidden visible-xs plabel">Semestr</label>
+                <ul class="pagination pagination-sm psemester ">
+                    <li class=" hidden-xs"><a href="#" class="plabel">Semestr</a></li>
+                                            <li class="">
+                            <a href="/education/time-table?semester=11">1</a>
+                        </li>
+                                            <li class="">
+                            <a href="/education/time-table?semester=12">2</a>
+                        </li>
+                                            <li class="">
+                            <a href="/education/time-table?semester=13">3</a>
+                        </li>
+                                            <li class="">
+                            <a href="/education/time-table?semester=14">4</a>
+                        </li>
+                                            <li class="">
+                            <a href="/education/time-table?semester=15">5</a>
+                        </li>
+                                            <li class="active">
+                            <a href="/education/time-table?semester=16">6</a>
+                        </li>
+                                            <li class="">
+                            <a href="/education/time-table?semester=17">7</a>
+                        </li>
+                                            <li class="">
+                            <a href="/education/time-table?semester=18">8</a>
+                        </li>
+                                    </ul>
+            </div>
+        </div>
+    </div>
+</div>
+    <div class="row" id="data-grid-filters">
+        <form id="w0" action="/education/time-table" method="post">
+<input type="hidden" name="_csrf-frontend" value="s2yxYIqlVzasb02oAa5BkX4kF7G4yrptx4YbXVAcy3jWFOYF8p0fbJUBDPtK1g7UJkZ468K7gwyKq1g6JnT_Lw==">        <div class="col col-sm-2 col-md-1 col-md-offset-3 hidden-xs">
+            <label>&nbsp;</label>
+            <a href="/education/time-table?week=11202" class="btn btn-primary btn-block btn-flat">
+                <i class="fa fa-chevron-left"></i>
+            </a>
+        </div>
+        <div class="col col-xs-12 col-sm-8 col-md-4 text-center">
+            <div class="form-group field-studentschedule-_week">
+<label class="control-label" for="studentschedule-_week">Haftani tanlang</label>
+<select id="studentschedule-_week" class="form-control select2-hidden-accessible" name="StudentSchedule[_week]" onchange="selectWeek(this)" data-s2-options="s2options_7ebc6538" data-krajee-select2="select2_3b5c60d4" data-select2-id="studentschedule-_week" tabindex="-1" aria-hidden="true">
+<option value="">Xaftani tanlang</option>
+<option value="11202" selected="" data-select2-id="2">126.  22 yanvar /  27 yanvar</option>
+<option value="11203">127.  29 yanvar /  03 fevral</option>
+<option value="11204">128.  05 fevral /  10 fevral</option>
+<option value="11205">129.  12 fevral /  17 fevral</option>
+<option value="11206">130.  19 fevral /  24 fevral</option>
+<option value="11207">131.  26 fevral /  02 mart</option>
+<option value="11208">132.  04 mart /  09 mart</option>
+<option value="11209">133.  11 mart /  16 mart</option>
+<option value="11210">134.  18 mart /  23 mart</option>
+<option value="11211">135.  25 mart /  30 mart</option>
+<option value="11212">136.  01 aprel /  06 aprel</option>
+<option value="11213">137.  08 aprel /  13 aprel</option>
+<option value="11214">138.  15 aprel /  20 aprel</option>
+<option value="11215">139.  22 aprel /  27 aprel</option>
+<option value="11216">140.  29 aprel /  04 may</option>
+<option value="11217">141.  06 may /  11 may</option>
+<option value="11218">142.  13 may /  18 may</option>
+<option value="11219">143.  20 may /  25 may</option>
+<option value="11220">144.  27 may /  01 iyun</option>
+<option value="11221">145.  03 iyun /  08 iyun</option>
+<option value="11222">146.  10 iyun /  15 iyun</option>
+<option value="11223">147.  17 iyun /  22 iyun</option>
+<option value="11224">148.  24 iyun /  29 iyun</option>
+<option value="11225">149.  01 iyul /  06 iyul</option>
+<option value="11226">150.  08 iyul /  13 iyul</option>
+<option value="11227">151.  15 iyul /  20 iyul</option>
+<option value="11228">152.  22 iyul /  27 iyul</option>
+</select><span class="select2 select2-container select2-container--default" dir="ltr" data-select2-id="1" style="width: 100%;"><span class="selection"><span class="select2-selection select2-selection--single" role="combobox" aria-haspopup="true" aria-expanded="false" tabindex="0" aria-disabled="false" aria-labelledby="select2-studentschedule-_week-container"><span class="select2-selection__rendered" id="select2-studentschedule-_week-container" role="textbox" aria-readonly="true" title="126.  22 yanvar /  27 yanvar">126.  22 yanvar /  27 yanvar</span><span class="select2-selection__arrow" role="presentation"><b role="presentation"></b></span></span></span><span class="dropdown-wrapper" aria-hidden="true"></span></span>
+
+<div class="help-block"></div>
+</div>        </div>
+        <div class="col col-sm-2 col-md-1  hidden-xs">
+            <label>&nbsp;</label>
+            <a href="/education/time-table?week=11203" class="btn btn-primary btn-block btn-flat">
+                <i class="fa fa-chevron-right"></i>
+            </a>
+        </div>
+        </form>    </div>
+
+            <div class="row sh-parent">
+                            <div class="col-sm-4">
+                    <div class="box box-success sh" style="height: 166px;">
+                        <div class="box-header  with-border">
+                            <h3 class="box-title display-block">
+                                Dushanba                                <span class="pull-right text-muted fs16">
+                                    22 yanvar, 2024                                    </span>
+                            </h3>
+                        </div>
+                        <div class="box-footer no-padding">
+                            <ul class="nav nav-stacked">
+                                                                    <li class="list-group-item" title="SALAYEV ALISHER KURALBAYEVICH">
+                                            4. Kriptografiya 2<br>
+                                            <span class="text-center text-muted">217</span>
+                                            <span class="separator">/</span>
+                                            <span class="text-center text-muted">Ma’ruza</span>
+                                                                                        <span class="separator">/</span>
+                                            <span class="text-center text-muted">SALAYEV A. K.</span>
+                                            <span class="pull-right text-muted">13:30</span>
+                                    </li>
+                                                                    <li class="list-group-item" title="MATYAZOVA NILUFAR SABIROVNA">
+                                            5. Pedagogika. Psixologiya<br>
+                                            <span class="text-center text-muted">217</span>
+                                            <span class="separator">/</span>
+                                            <span class="text-center text-muted">Amaliy</span>
+                                                                                        <span class="separator">/</span>
+                                            <span class="text-center text-muted">MATYAZOVA N. S.</span>
+                                            <span class="pull-right text-muted">15:00</span>
+                                    </li>
+                                                            </ul>
+                        </div>
+                    </div>
+                </div>
+                            <div class="col-sm-4">
+                    <div class="box box-success sh" style="height: 166px;">
+                        <div class="box-header  with-border">
+                            <h3 class="box-title display-block">
+                                Seshanba                                <span class="pull-right text-muted fs16">
+                                    23 yanvar, 2024                                    </span>
+                            </h3>
+                        </div>
+                        <div class="box-footer no-padding">
+                            <ul class="nav nav-stacked">
+                                                                    <li class="list-group-item" title="SALAYEV ALISHER KURALBAYEVICH">
+                                            4. Kriptografiya 2<br>
+                                            <span class="text-center text-muted">ZAL_2</span>
+                                            <span class="separator">/</span>
+                                            <span class="text-center text-muted">Amaliy</span>
+                                                                                        <span class="separator">/</span>
+                                            <span class="text-center text-muted">SALAYEV A. K.</span>
+                                            <span class="pull-right text-muted">13:30</span>
+                                    </li>
+                                                                    <li class="list-group-item" title="SALAYEV ALISHER KURALBAYEVICH">
+                                            5. Kiber-huquq va kiber-etika<br>
+                                            <span class="text-center text-muted">215</span>
+                                            <span class="separator">/</span>
+                                            <span class="text-center text-muted">Ma’ruza</span>
+                                                                                        <span class="separator">/</span>
+                                            <span class="text-center text-muted">SALAYEV A. K.</span>
+                                            <span class="pull-right text-muted">15:00</span>
+                                    </li>
+                                                            </ul>
+                        </div>
+                    </div>
+                </div>
+                            <div class="col-sm-4">
+                    <div class="box box-success sh" style="height: 166px;">
+                        <div class="box-header  with-border">
+                            <h3 class="box-title display-block">
+                                Chorshanba                                <span class="pull-right text-muted fs16">
+                                    24 yanvar, 2024                                    </span>
+                            </h3>
+                        </div>
+                        <div class="box-footer no-padding">
+                            <ul class="nav nav-stacked">
+                                                                    <li class="list-group-item" title="XAJIYEVA IRODA ADAMBAYEVNA">
+                                            4. Pedagogika. Psixologiya<br>
+                                            <span class="text-center text-muted">212</span>
+                                            <span class="separator">/</span>
+                                            <span class="text-center text-muted">Ma’ruza</span>
+                                                                                        <span class="separator">/</span>
+                                            <span class="text-center text-muted">XAJIYEVA I. A.</span>
+                                            <span class="pull-right text-muted">13:30</span>
+                                    </li>
+                                                                    <li class="list-group-item" title="IBODULLAYEV ABDULLA ZOKIR O‘G‘LI">
+                                            5. Tarmoq xavfsizligi<br>
+                                            <span class="text-center text-muted">215</span>
+                                            <span class="separator">/</span>
+                                            <span class="text-center text-muted">Amaliy</span>
+                                                                                        <span class="separator">/</span>
+                                            <span class="text-center text-muted">IBODULLAYEV A. Z.</span>
+                                            <span class="pull-right text-muted">15:00</span>
+                                    </li>
+                                                            </ul>
+                        </div>
+                    </div>
+                </div>
+                    </div>
+            <div class="row sh-parent">
+                            <div class="col-sm-4">
+                    <div class="box box-success sh" style="height: 166px;">
+                        <div class="box-header  with-border">
+                            <h3 class="box-title display-block">
+                                Payshanba                                <span class="pull-right text-muted fs16">
+                                    25 yanvar, 2024                                    </span>
+                            </h3>
+                        </div>
+                        <div class="box-footer no-padding">
+                            <ul class="nav nav-stacked">
+                                                                    <li class="list-group-item" title="ABDULLAYEVA GULCHEXRA XAKIMOVNA">
+                                            4. Operatsion tizimlar<br>
+                                            <span class="text-center text-muted">314</span>
+                                            <span class="separator">/</span>
+                                            <span class="text-center text-muted">Ma’ruza</span>
+                                                                                        <span class="separator">/</span>
+                                            <span class="text-center text-muted">ABDULLAYEVA G. X.</span>
+                                            <span class="pull-right text-muted">13:30</span>
+                                    </li>
+                                                                    <li class="list-group-item" title="SALAYEV ALISHER KURALBAYEVICH">
+                                            5. Kiber-huquq va kiber-etika<br>
+                                            <span class="text-center text-muted">215</span>
+                                            <span class="separator">/</span>
+                                            <span class="text-center text-muted">Amaliy</span>
+                                                                                        <span class="separator">/</span>
+                                            <span class="text-center text-muted">SALAYEV A. K.</span>
+                                            <span class="pull-right text-muted">15:00</span>
+                                    </li>
+                                                            </ul>
+                        </div>
+                    </div>
+                </div>
+                            <div class="col-sm-4">
+                    <div class="box box-success sh" style="height: 166px;">
+                        <div class="box-header  with-border">
+                            <h3 class="box-title display-block">
+                                Juma                                <span class="pull-right text-muted fs16">
+                                    26 yanvar, 2024                                    </span>
+                            </h3>
+                        </div>
+                        <div class="box-footer no-padding">
+                            <ul class="nav nav-stacked">
+                                                                    <li class="list-group-item" title="KARRIBAYEV YANGIBOY BEKTURDI O‘G‘LI">
+                                            4. Murabbiylik soati<br>
+                                            <span class="text-center text-muted">325</span>
+                                            <span class="separator">/</span>
+                                            <span class="text-center text-muted">Seminar</span>
+                                                                                        <span class="separator">/</span>
+                                            <span class="text-center text-muted">KARRIBAYEV Y. B.</span>
+                                            <span class="pull-right text-muted">13:30</span>
+                                    </li>
+                                                                    <li class="list-group-item" title="ABDULLAYEVA GULCHEXRA XAKIMOVNA">
+                                            5. Operatsion tizimlar<br>
+                                            <span class="text-center text-muted">ZAL_2</span>
+                                            <span class="separator">/</span>
+                                            <span class="text-center text-muted">Amaliy</span>
+                                                                                        <span class="separator">/</span>
+                                            <span class="text-center text-muted">ABDULLAYEVA G. X.</span>
+                                            <span class="pull-right text-muted">15:00</span>
+                                    </li>
+                                                            </ul>
+                        </div>
+                    </div>
+                </div>
+                            <div class="col-sm-4">
+                    <div class="box box-success sh" style="height: 166px;">
+                        <div class="box-header  with-border">
+                            <h3 class="box-title display-block">
+                                Shanba                                <span class="pull-right text-muted fs16">
+                                    27 yanvar, 2024                                    </span>
+                            </h3>
+                        </div>
+                        <div class="box-footer no-padding">
+                            <ul class="nav nav-stacked">
+                                                                    <li class="list-group-item" title="XOJIBAYEV JONIBEK MAXMUDJONOVICH">
+                                            4. Tarmoq xavfsizligi<br>
+                                            <span class="text-center text-muted">315</span>
+                                            <span class="separator">/</span>
+                                            <span class="text-center text-muted">Ma’ruza</span>
+                                                                                        <span class="separator">/</span>
+                                            <span class="text-center text-muted">XOJIBAYEV J. M.</span>
+                                            <span class="pull-right text-muted">13:30</span>
+                                    </li>
+                                                                    <li class="list-group-item" title="SALAYEV ALISHER KURALBAYEVICH">
+                                            5. Kriptografiya 2<br>
+                                            <span class="text-center text-muted">315</span>
+                                            <span class="separator">/</span>
+                                            <span class="text-center text-muted">Ma’ruza</span>
+                                                                                        <span class="separator">/</span>
+                                            <span class="text-center text-muted">SALAYEV A. K.</span>
+                                            <span class="pull-right text-muted">15:00</span>
+                                    </li>
+                                                            </ul>
+                        </div>
+                    </div>
+                </div>
+                    </div>
+        <script type="text/javascript">
+        function selectWeek(e) {
+            var w = $(e).val();
+            $.pjax.reload('#schedule-grid', {'url': '/education/time-table?week=' + w});
+        }
+    </script>
+</div>    </section>
